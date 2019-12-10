@@ -38,6 +38,8 @@ public class LoginActivity extends AppCompatActivity {
     private CheckBox show_hide_password;
 
 
+    
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
